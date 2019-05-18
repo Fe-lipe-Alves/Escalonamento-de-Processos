@@ -1,0 +1,9 @@
+D:\Escalonamento Console\Escalonamento Console\bin\Debug\Escalonamento Console.exe.config
+D:\Escalonamento Console\Escalonamento Console\bin\Debug\Escalonamento Console.exe
+D:\Escalonamento Console\Escalonamento Console\bin\Debug\Escalonamento Console.pdb
+D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.csproj.CoreCompileInputs.cache
+D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.exe
+D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.pdb
+D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.csprojResolveAssemblyReference.cache
+D:\Escalonamento Console\Escalonamento Console\bin\Debug\Dominio.dll
+D:\Escalonamento Console\Escalonamento Console\bin\Debug\Dominio.pdb
