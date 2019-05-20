@@ -29,7 +29,6 @@ namespace Escalonamento_Console
             Escalonador escalonador = new Escalonador(fila1, roundRobin);
 
             // ------------------------------------------------------------   FUNÇÕES   ------------------------------------------------------------
-
             // Exibe todas as filas com seus respectivos processos
             void exibeEscalonador()
             {
