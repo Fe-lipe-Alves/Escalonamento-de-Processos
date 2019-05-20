@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    public class Processo
+    public class Processo:IDisposable
     {
         public int pid { get; set; }
         public String nome { get; set; }
         public int prioridade { get; set; }
-        public int tempo { get; set; }
+        public int burstTime { get; set; }
 
         public void DiminuirTempo(int tempoFila)
         {
-            this.tempo = this.tempo - tempoFila;
+            this.burstTime = this.burstTime - tempoFila;
+            if (this.burstTime <= 0)
+                this.Dispose();
         }
 
         public void AlterarPrioridade(int prioridade)
@@ -23,16 +25,15 @@ namespace Dominio
             this.prioridade = this.prioridade - prioridade;
         }
 
-        public Processo()
-        {
-        }
+        public void Dispose() { }
 
-        public Processo(int pid, string nome, int prioridade, int tempo)
+        public Processo() { }
+
+        public Processo(int pid, string nome, int burstTime)
         {
             this.pid = pid;
             this.nome = nome;
-            this.prioridade = prioridade;
-            this.tempo = tempo;
+            this.burstTime = burstTime;
         }
     }
 }

@@ -10,6 +10,7 @@ namespace Dominio
     {
         #region Propriedades
         public List<Fila> filas { get; set; }
+        public RoundRobin roundRobin { get; set; }
         #endregion
 
         #region Métodos
@@ -21,15 +22,19 @@ namespace Dominio
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < this.filas.Count; i++)
+            {
+                this.filas[i].Dispose();
+            }
         }
         #endregion
 
         #region Contrutores
-        public Escalonador(Fila fila)
+        public Escalonador(Fila fila, RoundRobin roundRobin)
         {
             this.filas = new List<Fila>();
             this.filas.Add(fila);
+            this.roundRobin = roundRobin;
         }
         #endregion
     }

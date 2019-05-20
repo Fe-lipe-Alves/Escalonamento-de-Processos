@@ -18,6 +18,7 @@ namespace Dominio
         #region Métodos
         public void AdicionaProcesso(Processo processo)
         {
+            processo.prioridade = this.prioridade;
             if (this.processos == null)
             {
                 this.processos = new List<Processo>();
@@ -26,9 +27,29 @@ namespace Dominio
             else
                 this.processos.Add(processo);
         }
+
+        public Processo RemoveProcesso()
+        {
+            if (this.processos != null)
+            {
+                if (this.processos.Count > 0)
+                {
+                    Processo aux = this.processos[0];
+                    this.processos.Remove(aux);
+                    return aux;
+                }
+                else
+                    return null;
+            }
+            else
+                return null;
+        }
         public void Dispose()
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < this.processos.Count; i++)
+            {
+                this.processos[i].Dispose();
+            }
         }
         #endregion
 

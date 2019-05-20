@@ -4,3 +4,9 @@ D:\Escalonamento Console\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReferenc
 D:\Escalonamento Console\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 D:\Escalonamento Console\Dominio\obj\Debug\Dominio.dll
 D:\Escalonamento Console\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\bin\Debug\Dominio.dll
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\obj\Debug\Dominio.dll
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Dominio\obj\Debug\Dominio.pdb

@@ -7,3 +7,15 @@ D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.p
 D:\Escalonamento Console\Escalonamento Console\obj\Debug\Escalonamento Console.csprojResolveAssemblyReference.cache
 D:\Escalonamento Console\Escalonamento Console\bin\Debug\Dominio.dll
 D:\Escalonamento Console\Escalonamento Console\bin\Debug\Dominio.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\bin\Debug\Escalonamento Console.exe.config
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\bin\Debug\Escalonamento Console.exe
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\bin\Debug\Escalonamento Console.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\bin\Debug\Dominio.dll
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\bin\Debug\Dominio.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.csprojAssemblyReference.cache
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.csproj.CopyComplete
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.exe
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.pdb
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento_Console.Properties.Resources.resources
+C:\Users\Felipe Alves\Documents\Sistemas de Informação\Estrutura de Dados\Escalonamento de Processos\Escalonamento Console\obj\Debug\Escalonamento Console.csproj.GenerateResource.cache
